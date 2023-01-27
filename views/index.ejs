@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <%- include("header.ejs") %>
+    <main>
+      <% for (let x in datos) { %>
+        <section>
+            <nav><h1><%= datos[x].nombre %></h1></nav>
+            <img src="<%= datos[x].imagen %>" alt="">
+            <p><%= datos[x].descripcion %></p>
+        </section>
+      <% } %> 
+    </main>
+  </body>
+</html>

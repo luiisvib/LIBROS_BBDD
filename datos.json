@@ -1,0 +1,22 @@
+[
+    {
+        "id": "ergWER43",
+        "nombre":"El Hobbit",
+        "imagen": "https://i.pinimg.com/474x/d6/34/86/d6348694f23a67b8aff8dee76be56326.jpg",
+        "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "id": "eri24b13",
+        "nombre":"El señor de los anillos",
+        "imagen": "https://i.pinimg.com/originals/d7/92/f1/d792f1d58bbc1526b8b7cfedd663b6bf.jpg",
+        "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+        "id": "70absq4",
+        "nombre":"El Rey Leon",
+        "imagen": "https://i.pinimg.com/736x/ce/3a/5f/ce3a5f391c89337de34572401289a9f3.jpg",
+        "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    }
+]
+
+ 
